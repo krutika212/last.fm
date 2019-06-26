@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Last.FM
-//
-//  Created by Jenish Dhaduk on 6/26/19.
-//  Copyright © 2019 iphone. All rights reserved.
-//
 
 import UIKit
 

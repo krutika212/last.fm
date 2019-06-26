@@ -1,10 +1,4 @@
-//
-//  WebService.swift
-//  Millio
-//
-//  Created by Jenish Dhaduk on 3/6/19.
-//  Copyright © 2019 Ravi Patel. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
